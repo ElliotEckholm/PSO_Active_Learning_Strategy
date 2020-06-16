@@ -1,4 +1,4 @@
-# PSO_Active_Learning_Strategy
+# PSO Active Learning Strategy
 Using Standard Particle Swarm Optimization as a Query Strategy for Active Learning Model with Sklearn Dataset
 
 Uses ALiPY python module for Active Learnign framework. 
